@@ -7,5 +7,9 @@
     // "csv (semicolon)",
     // "tab",
     // "tsv"
-  ]
+  ],
+  "SAP HANA SQLScript LSP.URL": "https://hana-cockpit-001.cfapps.us10.hana.ondemand.com/hrtt-service",
+  "SAP HANA SQLScript LSP.XsAdvancedHrttServiceUrl": "",
+  "SAP HANA Database Artifacts.lastSelectedTargetPath": "/home/user/projects/hana-opensap-cloud/db/src/contraints",
+  "SAP HANA Database Explorer.UseObjectsDefinitionForSqlGeneration.RetentionTime": 7
 }
